@@ -19,3 +19,4 @@ def pozdrav():
 | Naziv projekta | Verzija | Autor        |
 |----------------|---------|--------------|
 | ATP Kolokvij   | 1.0     | nino vrsaljko|  |
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
